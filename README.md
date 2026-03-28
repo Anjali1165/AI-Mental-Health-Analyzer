@@ -54,7 +54,7 @@ AI-Mental-Health-Analyzer/
 
 ---
 
-##Sample Output
+## Sample Output
 How are you feeling today?
 sad
 Don't worry, things will get better. Stay strong.
